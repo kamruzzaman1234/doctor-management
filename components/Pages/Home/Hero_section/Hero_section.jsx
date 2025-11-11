@@ -22,17 +22,17 @@ const Hero_Section  =()=>{
                    </div>
 
                      <div className="flex flex-col gap-4 max-w-[600px] w-full bg-green-100 rounded-full">
-                       <img src="https://i.ibb.co.com/Y4bF6tjc/docc-removebg-preview.png"
-                       className="w-full h-full" alt="" />
+                       <img src="https://i.ibb.co.com/r2Lpj3yc/dc11.png"
+                       className="w-full h-full rounded-full" alt="" />
                    </div>
                    <div className="absolute top-[40px] left-[50%]"> 
-                        <TbNurse className="text-6xl text-blue-500"/>
+                        <TbNurse className="text-6xl text-green-500"/>
                    </div>
                     <div className="absolute top-0 left-[60%]"> 
-                        <MdOutlineDesignServices className="text-6xl text-blue-500"/>
+                        <MdOutlineDesignServices className="text-6xl text-green-500"/>
                    </div>
                    <div className="absolute top[70px] left-[45%]">
-                        <RiCustomerServiceFill className="text-6xl text-blue-500"/>
+                        <RiCustomerServiceFill className="text-6xl text-green-500"/>
                    </div>
                    
                   
