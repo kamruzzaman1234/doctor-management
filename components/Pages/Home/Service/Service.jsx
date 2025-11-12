@@ -2,7 +2,7 @@
 import { FaArrowCircleRight } from "react-icons/fa";
  const Service  =()=>{
     return(
-        <div className="py-4">
+        <div className="py-[80px]">
             <div className="max-w-7xl w-full mx-auto">
                 <div className="grid grid-cols-1  md:grid-cols-2 lg:grid-cols-4 gap-4">
              <div
@@ -46,7 +46,7 @@ import { FaArrowCircleRight } from "react-icons/fa";
 
               <div className="text-center space-y-2 flex justify-center flex-col items-center">
                  <h3 className="text-2xl font-bold text-slate-700 hover:text-green-700 transition-colors duration-300">
-                Live Video Consultation
+                    Digital Instrument
                 </h3>
                   <p className="text-slate-600 font-medium">
                       Get instant video consultation or schedule your appointment
@@ -72,7 +72,7 @@ import { FaArrowCircleRight } from "react-icons/fa";
 
               <div className="text-center space-y-2 flex justify-center flex-col items-center">
                  <h3 className="text-2xl font-bold text-slate-700 hover:text-green-700 transition-colors duration-300">
-                Live Video Consultation
+                    Diagonosties Test
                 </h3>
                   <p className="text-slate-600 font-medium">
                       Get instant video consultation or schedule your appointment
@@ -98,7 +98,7 @@ import { FaArrowCircleRight } from "react-icons/fa";
 
               <div className="text-center space-y-2 flex justify-center flex-col items-center">
                  <h3 className="text-2xl font-bold text-slate-700 hover:text-green-700 transition-colors duration-300">
-                Live Video Consultation
+                    24/7 Health Support
                 </h3>
                   <p className="text-slate-600 font-medium">
                       Get instant video consultation or schedule your appointment
