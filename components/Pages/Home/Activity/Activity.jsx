@@ -6,7 +6,7 @@ import { IoStar } from "react-icons/io5";
 
 const Activity = ()=>{
     return(
-        <div className="py-4">
+        <div className="py-[80px]">
             <div className="max-w-7xl w-full mx-auto px-[20px] lg:px-0">
                 <div className="grid grid-cols-1 gap-4 md:grid-cols-3 lg:grid-cols-5">
                     <div className="flex flex-col justify-center shadow-lg items-center space-y-2 py-4

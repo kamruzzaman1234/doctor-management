@@ -5,17 +5,21 @@ import Service from '../components/Pages/Home/Service/Service';
 import Activity from '../components/Pages/Home/Activity/Activity';
 import Facility from '../components/Pages/Home/Facility/Facility';
 import DemoVideo from '../components/Pages/Home/DemoVideo/DemoVideo';
-import TopDoc from '../components/Pages/Home/TopDoc/TopDoc'
+import TopDoc from '../components/Pages/Home/TopDoc/TopDoc';
+import BookAppointment from '../components/Pages/Home/BookAppointment/BookAppointment'
 
 export default function Home() {
   return (
     <div>
         <Hero_Section></Hero_Section>
-        <Service></Service>
-        <Activity></Activity>
-        <Facility></Facility>
-        <DemoVideo></DemoVideo>
         <TopDoc></TopDoc>
+        <Service></Service>
+         <Facility></Facility>
+        <Activity></Activity>
+       
+        <DemoVideo></DemoVideo>
+        
+        <BookAppointment></BookAppointment>
 
     </div>
   );

@@ -2,7 +2,8 @@
 
 const DemoVideo = () => {
   return (
-    <section className="relative w-full h-[400px] overflow-hidden">
+      <div className="py-[80px]">
+            <section className="relative w-full h-[400px] overflow-hidden">
 
       <iframe
         className="absolute top-0 left-0 w-full h-full object-cover"
@@ -17,6 +18,8 @@ const DemoVideo = () => {
        
       </div>
     </section>
+      </div> 
+
   );
 };
 
