@@ -3,7 +3,7 @@ import { FaArrowCircleRight } from "react-icons/fa";
  const Service  =()=>{
     return(
         <div className="py-[80px]">
-            <div className="max-w-7xl w-full mx-auto">
+            <div className="max-w-7xl w-full mx-auto px-[20px] lg:px-0">
                 <div className="grid grid-cols-1  md:grid-cols-2 lg:grid-cols-4 gap-4">
              <div
                    className="p-3 shadow-lg cursor-pointer rounded-tl-[80px] border-2 border-slate-200 

@@ -42,14 +42,80 @@ const Hero_Section  =()=>{
     </div>
 
     {/* FLOATING ICONS */}
-    <div className="absolute top-[30px] left-[15%] animate-bounce">
-      <TbNurse className="text-5xl lg:text-6xl text-green-500" />
+    <div className="absolute top-[30px] left-[0%] animate-bounce">
+     
+      <div className="avatar-group -space-x-6">
+  <div className="avatar">
+    <div className="w-12">
+      <img src="https://img.daisyui.com/images/profile/demo/batperson@192.webp" />
     </div>
-    <div className="absolute top-[20px] right-[10%] animate-pulse">
-      <MdOutlineDesignServices className="text-5xl lg:text-6xl text-green-500" />
+  </div>
+  <div className="avatar">
+    <div className="w-12">
+      <img src="https://img.daisyui.com/images/profile/demo/spiderperson@192.webp" />
     </div>
-    <div className="absolute bottom-[40px] left-[25%] animate-bounce">
-      <RiCustomerServiceFill className="text-5xl lg:text-6xl text-green-500" />
+  </div>
+  <div className="avatar">
+    <div className="w-12">
+      <img src="https://img.daisyui.com/images/profile/demo/averagebulk@192.webp" />
+    </div>
+  </div>
+  <div className="avatar">
+    <div className="w-12">
+      <img src="https://img.daisyui.com/images/profile/demo/wonderperson@192.webp" />
+    </div>
+  </div>
+</div>
+    </div>
+    <div className="absolute top-[20px] right-[0%] animate-pulse">
+      
+      <div className="avatar-group -space-x-6">
+  <div className="avatar">
+    <div className="w-12">
+      <img src="https://img.daisyui.com/images/profile/demo/batperson@192.webp" />
+    </div>
+  </div>
+  <div className="avatar">
+    <div className="w-12">
+      <img src="https://img.daisyui.com/images/profile/demo/spiderperson@192.webp" />
+    </div>
+  </div>
+  <div className="avatar">
+    <div className="w-12">
+      <img src="https://img.daisyui.com/images/profile/demo/averagebulk@192.webp" />
+    </div>
+  </div>
+  <div className="avatar">
+    <div className="w-12">
+      <img src="https://img.daisyui.com/images/profile/demo/wonderperson@192.webp" />
+    </div>
+  </div>
+</div>
+    </div>
+    <div className="absolute bottom-[0px] left-[25%] animate-bounce">
+     
+      <div className="avatar-group -space-x-6">
+  <div className="avatar">
+    <div className="w-12">
+      <img src="https://img.daisyui.com/images/profile/demo/batperson@192.webp" />
+    </div>
+  </div>
+  <div className="avatar">
+    <div className="w-12">
+      <img src="https://img.daisyui.com/images/profile/demo/spiderperson@192.webp" />
+    </div>
+  </div>
+  <div className="avatar">
+    <div className="w-12">
+      <img src="https://img.daisyui.com/images/profile/demo/averagebulk@192.webp" />
+    </div>
+  </div>
+  <div className="avatar">
+    <div className="w-12">
+      <img src="https://img.daisyui.com/images/profile/demo/wonderperson@192.webp" />
+    </div>
+  </div>
+</div>
     </div>
   </div>
 </div>
