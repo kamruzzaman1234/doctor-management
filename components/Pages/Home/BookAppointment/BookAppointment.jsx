@@ -16,7 +16,7 @@ const BookAppointment = ()=>{
                    
                 </div>
 
-                 <div className="w-full absolute bottom-[-50px] right-0 lg:w-[50%]">
+                 <div className="w-full hidden lg:block absolute bottom-[-50px] right-0 lg:w-[50%]">
                         <img src="https://i.ibb.co.com/r2Lpj3yc/dc11.png" alt="" />
                     </div>
                 

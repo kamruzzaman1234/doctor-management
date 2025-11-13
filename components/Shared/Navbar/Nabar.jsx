@@ -43,7 +43,7 @@ const Navbar = ()=>{
     </ul>
   </div>
   <div className="navbar-end">
-    <Link href={'/'} className="btn border-green-700 uppercase">Check Health</Link>
+    <Link href={'/healthCheck'} className="btn border-green-700 uppercase">Check Health</Link>
   </div>
 </div>
         </div>
