@@ -23,7 +23,7 @@ const Navbar = ()=>{
         tabIndex="-1"
         className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow">
         <li><Link href={'/'} className={`${poppins.className} text-[14px] uppercase text-slate-600 font-semibold`}>Home</Link></li>
-        <li><Link href={'/'} className={`${poppins.className} text-[14px] uppercase text-slate-600 font-semibold`}>Doctor list</Link></li>
+        <li><Link href={'/doctorList'} className={`${poppins.className} text-[14px] uppercase text-slate-600 font-semibold`}>Doctor list</Link></li>
         <li><Link href={'/'} className={`${poppins.className} text-[14px] uppercase text-slate-600 font-semibold`}>Appointment</Link></li>
         <li><Link href={'/'} className={`${poppins.className} text-[14px] uppercase text-slate-600 font-semibold`}>Service</Link></li>
         <li><Link href={'/'} className={`${poppins.className} text-[14px] uppercase text-slate-600 font-semibold`}>Contact</Link></li>
@@ -36,7 +36,7 @@ const Navbar = ()=>{
   <div className="navbar-center hidden lg:flex">
     <ul className="menu menu-horizontal px-1">
         <li><Link href={'/'} className={`${poppins.className} uppercase text-[14px] text-slate-600 font-semibold`}>Home</Link></li>
-        <li><Link href={'/'} className={`${poppins.className} uppercase text-[14px] text-slate-600 font-semibold`}>Doctor list</Link></li>
+        <li><Link href={'/doctorList'} className={`${poppins.className} uppercase text-[14px] text-slate-600 font-semibold`}>Doctor list</Link></li>
         <li><Link href={'/'} className={`${poppins.className} uppercase text-[14px] text-slate-600 font-semibold`}>Appoinment</Link></li>
         <li><Link href={'/'} className={`${poppins.className} uppercase text-[14px] text-slate-600 font-semibold`}>Service</Link></li>
         <li><Link href={'/'} className={`${poppins.className} uppercase text-[14px] text-slate-600 font-semibold`}>Contact</Link></li>
